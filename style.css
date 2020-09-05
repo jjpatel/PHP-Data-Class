@@ -1,0 +1,44 @@
+
+h1{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+#main {
+    text-align: center;
+}
+
+h2{
+    color: #48aeb5;
+    display: block;
+    margin-top: 12%;
+    margin-bottom: 3%;
+}
+
+#myTable {
+        font-family: 'Abel', sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+}
+
+#myTable td, #myTable th {
+              border: 1px solid #ddd;
+              padding: 8px;
+}
+
+#myTable tr:nth-child(even){background-color: #f2f2f2;}
+
+#myTable tr:hover {background-color: #bcdcf7;}
+
+#myTable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #48aeb5;
+    color: white;
+}
+
+#submitbtn {
+    margin-left: 330%;
+    margin-top: 20%;
+}
