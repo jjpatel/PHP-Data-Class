@@ -44,15 +44,6 @@ class RestaurantData {
         return json_encode($response);
     }
 
-    /*public function getTopperStudent() {
-        $foodItem = null;
-        // Write your logic;
-        $foodItem['grade'] = getGrade($per);
-    }
 
-    private function getGrade($per) {
-        return "A";
-    }
-*/
 }
 ?>
